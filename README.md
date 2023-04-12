@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align='center'>열심히 공부 중인 것들입니다. <
+<h3 align='center'>열심히 공부 중인 것들입니다. </h3>
 <p align='center'>
 <img src="https://img.shields.io/badge/Java-4b4b77?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/></a>
