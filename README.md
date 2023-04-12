@@ -31,10 +31,13 @@ Here are some ideas to get you started:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabsiru&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/sabsiru/github-readme-stats)
   
+  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min147)](https://solved.ac/min147)
+  
 [![Sabsiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabsiru&show_icons=true&theme=tokyonight)](https://github.com/sabsiru/github-readme-stats)
 
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min147)](https://solved.ac/min147)
+
 </div>
 
