@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align='center'>
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
@@ -25,4 +26,6 @@ Here are some ideas to get you started:
 [![Sabsiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabsiru&show_icons=true&theme=tokyonight)](https://github.com/Sabsiru/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabsiru&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/Sabsiru/github-readme-stats)
+
+</p>
 
