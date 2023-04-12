@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1 align='center'>안녕하세요 이제 막 코딩을 배우기 시작한 뉴비입니다.</h1>
 
 <!--
 **Sabsiru/Sabsiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align='center'>
 <img src="https://img.shields.io/badge/Java-4b4b77?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/></a>
