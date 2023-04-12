@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
 </p>
 
+<div align='center'>
 [![Sabsiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabsiru&show_icons=true&theme=tokyonight)](https://github.com/sabsiru/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabsiru&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/sabsiru/github-readme-stats)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min147)](https://solved.ac/min147)
-
+</div>
 
