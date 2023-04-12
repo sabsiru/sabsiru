@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h3 align='center'>열심히 공부 중인 것들입니다. </h3>
 <p align='center'>
-<img src="https://img.shields.io/badge/Java-4b4b77?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-4b4b77?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33f?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
