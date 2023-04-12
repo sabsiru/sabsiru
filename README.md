@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 
 
 [![Sabsiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabsiru&show_icons=true&theme=tokyonight)](https://github.com/Sabsiru/github-readme-stats)
