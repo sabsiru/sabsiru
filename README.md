@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/Java-4B4B77?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Spring-6DB33f?style=flat-square&logo=Spring&logoColor=white"/></a>
 
 [![Sabsiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabsiru&show_icons=true&theme=tokyonight)](https://github.com/Sabsiru/github-readme-stats)
