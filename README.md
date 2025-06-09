@@ -20,12 +20,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33f?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
 </p>
 
 <div align='center'>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabsiru&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/sabsiru/github-readme-stats)
   
 
 
