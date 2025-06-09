@@ -32,10 +32,5 @@ Here are some ideas to get you started:
   
 [![Sabsiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabsiru&show_icons=true&theme=tokyonight)](https://github.com/sabsiru/github-readme-stats)
 
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
-</a>
-
-
 </div>
 
