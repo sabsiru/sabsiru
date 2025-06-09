@@ -1,4 +1,4 @@
-### <h1 align='center'> 재밌고 어려운 SPRING</h1>
+### <h1 align='center'> 문제의 본질을 깨달아야 내 것이 된다.</h1>
 
 <!--
 **Sabsiru/Sabsiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
