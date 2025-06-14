@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33f?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 </p>
-![Java](https://cdn.simpleicons.org/java)  
 
 <div align='center'>
   
