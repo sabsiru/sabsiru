@@ -1,4 +1,6 @@
-### <h1 align='center'> 문제의 본질을 깨달아야 내 것이 된다.</h1>
+<h1 align='center'> “문제의 본질을 깨달아야 내 것이 된다.”</h1>
+<h2 align='center'>기술보다 먼저, 문제를 정확히 보는 힘이 쌓일 때 진짜 실력이 된다고 믿습니다.</h2> 
+
 
 <!--
 **Sabsiru/Sabsiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
